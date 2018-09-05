@@ -1,0 +1,6 @@
+$hey-look-at-me-im-a-sass-variable: orange;
+
+.board {
+  color: $hey-look-at-me-im-a-sass-variable;
+  font-family: sans-serif;
+}
