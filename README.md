@@ -1,4 +1,4 @@
-# NYT Web Code Test
+#  Web Code Test
 
 Thank you for your interest! This exercise will help us
 get to know you a bit as an engineer. Your task is to create a playable version
