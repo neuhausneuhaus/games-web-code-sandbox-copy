@@ -1,6 +1,6 @@
 # NYT Web Code Test
 
-Thank you for your interest in The New York Times! This exercise will help us
+Thank you for your interest! This exercise will help us
 get to know you a bit as an engineer. Your task is to create a playable version
 of the card-matching game Memory. Your app should fetch the game data found
 found [here](https://web-code-test-dot-nyt-games-prd.appspot.com/cards.json).
@@ -54,7 +54,7 @@ suggestions on ways you might extend your app and really make it stand out:
 
 ## Setup
 
-To help you get started†, we’ve created this starter project based on
+To help you get started†, use this starter project based on
 [NYT kyt](https://github.com/NYTimes/kyt) that uses Webpack, Node, Babel,
 Express, React and Sass + CSS Modules, all of which are technologies we use
 internally. Feel free to extend the `package.json` with any other packages that
